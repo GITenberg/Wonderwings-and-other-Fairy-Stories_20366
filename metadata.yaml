@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '9250'
     url: http://www.gutenberg.org/2009/agents/9250
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20366#Wonderwings-and-other-Fairy-Stories
 gutenberg_bookshelf:
 - New Zealand
 - Children's Myths, Fairy Tales, etc.
