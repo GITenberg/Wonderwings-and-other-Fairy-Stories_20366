@@ -1,0 +1,38 @@
+_repo: Wonderwings-and-other-Fairy-Stories_20366
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Polson, Alice
+    alias: Polson, Alicea
+    gutenberg_agent_id: '9251'
+    url: http://www.gutenberg.org/2009/agents/9251
+covers:
+- cover_type: archival
+  image_path: 20366-h/images/img.cover.jpg
+creator:
+  author:
+    agent_name: Howes, Edith
+    birthdate: 1872
+    deathdate: 1954
+    gutenberg_agent_id: '9250'
+    url: http://www.gutenberg.org/2009/agents/9250
+description: ''
+gutenberg_bookshelf:
+- New Zealand
+- Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2007-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Children''s stories, New Zealand'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: Wonderwings -- The magic mirror -- Fairy Tenderheart.
+title: Wonderwings and other Fairy Stories
+url: http://www.gutenberg.org/ebooks/20366
